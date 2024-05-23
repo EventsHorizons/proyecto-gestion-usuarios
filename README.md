@@ -15,9 +15,9 @@ Este proyecto implementa una aplicación básica de gestión de usuarios con fun
 
 Clona este repositorio en tu servidor local o remoto.
 
-```bash
-git clone https://github.com/tu_usuario/proyecto-gestion-usuarios.git
-cd proyecto-gestion-usuarios 
+(```bash
+git clone https://github.com/eventshorizons/proyecto-gestion-usuarios.git
+cd proyecto-gestion-usuarios )
 
 Paso 2: Configurar la base de datos
 
